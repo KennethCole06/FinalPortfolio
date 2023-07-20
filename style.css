@@ -1,0 +1,163 @@
+*
+{
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+nav ul
+{
+	float: right;
+	margin-right: 20px;
+	margin-top: 25px;
+
+}
+nav ul li
+{
+
+	display: inline-block;
+	margin: 20px;
+	padding-top: 20px;
+	padding-right: 20px;
+
+	
+}
+nav ul li a
+{
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+	border-radius: 3px;
+}
+nav ul li a:hover
+{
+	background: yellow;
+}
+.logo a img
+{
+	width: 100px;
+    height: 100px;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	border-radius: 5px;
+	margin-top: 40px;
+	margin-left: 20px;
+	outline-style: solid;
+	outline-offset: 1px;
+	position: absolute;
+}
+body
+{
+	background-color: rgb(56, 41, 41);
+    color: white;
+}
+.hello
+{
+	margin-left: 50px;
+    font-size: 40px;
+}
+.bg-index img
+{
+	padding-top: 50px;
+	padding-left: 275px;
+	float: right;
+	width: 500px;
+	margin-right: 50px;
+}
+.logo1 a img
+{
+	width: 100px;
+    height: 100px;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	border-radius: 5px;
+	margin-top: 40px;
+	margin-left: 40px;
+	position: absolute;
+}
+.logo2 a img
+{
+	width: 100px;
+    height: 100px;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	border-radius: 5px;
+	margin-top: 40px;
+	margin-left: 200px;
+    border-radius: 30px;
+	position: absolute;
+}
+.pic img
+{
+	width: 180px;
+    height: 180px;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	border-radius: 5px;
+	margin-top: 40px;
+	margin-left: 20px;
+	position: absolute;
+}
+.top-info ul li
+{
+	list-style-type: none;
+	padding-top: 50px;
+	margin-top: 3px;
+	margin-left: 200px;
+	display: flex;
+	flex-direction: column;
+}
+.middle-info ul li
+{
+	list-style-type: none;
+	padding-top: 20px;
+	margin-top: 1px;
+	margin-left: 20px;
+	display: flex;
+	flex-direction: column;
+}
+.title-resume
+{
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+p
+{
+	margin-left: 75px;
+	font-size: 15px;
+	margin-top: 5px;
+	padding-top: 5px;
+}
+.title
+{
+	text-align: center;
+	padding-top: 11%;
+	margin-left: 75px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 27px;
+}
+.extra h1
+{
+	margin-left: 150px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+.extra h3
+{
+	margin-left: 150px;
+}
+.extra ul
+{
+	margin-left: 150px;
+    font-size: 20px;
+}
